@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat09421&label=Profile%20views&color=0e75b6&style=flat" alt="rahat09421" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahat09421" alt="rahat09421" /></a> </p>
-
 - 🔭 I’m currently working on [Student Grades Manager](https://github.com/rahat09421/Student-Grades-Manager-Application)
 
 - 🌱 I’m currently learning **Django, Flask, FastAPI,**
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat09421&show_icons=true&locale=en&layout=compact" alt="rahat09421" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahat09421&show_icons=true&locale=en" alt="rahat09421" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahat09421&" alt="rahat09421" /></p>
